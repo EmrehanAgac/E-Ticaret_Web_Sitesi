@@ -1,0 +1,14 @@
+C:\Users\emreh\OneDrive\Masaüstü\İnfotech projeleri\Divisima.DAL\Divisima.DAL\bin\Debug\net8.0\Divisima.DAL.deps.json
+C:\Users\emreh\OneDrive\Masaüstü\İnfotech projeleri\Divisima.DAL\Divisima.DAL\bin\Debug\net8.0\Divisima.DAL.runtimeconfig.json
+C:\Users\emreh\OneDrive\Masaüstü\İnfotech projeleri\Divisima.DAL\Divisima.DAL\bin\Debug\net8.0\Divisima.DAL.dll
+C:\Users\emreh\OneDrive\Masaüstü\İnfotech projeleri\Divisima.DAL\Divisima.DAL\bin\Debug\net8.0\Divisima.DAL.pdb
+C:\Users\emreh\OneDrive\Masaüstü\İnfotech projeleri\Divisima.DAL\Divisima.DAL\obj\Debug\net8.0\Divisima.DAL.csproj.AssemblyReference.cache
+C:\Users\emreh\OneDrive\Masaüstü\İnfotech projeleri\Divisima.DAL\Divisima.DAL\obj\Debug\net8.0\Divisima.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreh\OneDrive\Masaüstü\İnfotech projeleri\Divisima.DAL\Divisima.DAL\obj\Debug\net8.0\Divisima.DAL.AssemblyInfoInputs.cache
+C:\Users\emreh\OneDrive\Masaüstü\İnfotech projeleri\Divisima.DAL\Divisima.DAL\obj\Debug\net8.0\Divisima.DAL.AssemblyInfo.cs
+C:\Users\emreh\OneDrive\Masaüstü\İnfotech projeleri\Divisima.DAL\Divisima.DAL\obj\Debug\net8.0\Divisima.DAL.csproj.CoreCompileInputs.cache
+C:\Users\emreh\OneDrive\Masaüstü\İnfotech projeleri\Divisima.DAL\Divisima.DAL\obj\Debug\net8.0\Divisima.DAL.dll
+C:\Users\emreh\OneDrive\Masaüstü\İnfotech projeleri\Divisima.DAL\Divisima.DAL\obj\Debug\net8.0\refint\Divisima.DAL.dll
+C:\Users\emreh\OneDrive\Masaüstü\İnfotech projeleri\Divisima.DAL\Divisima.DAL\obj\Debug\net8.0\Divisima.DAL.pdb
+C:\Users\emreh\OneDrive\Masaüstü\İnfotech projeleri\Divisima.DAL\Divisima.DAL\obj\Debug\net8.0\Divisima.DAL.genruntimeconfig.cache
+C:\Users\emreh\OneDrive\Masaüstü\İnfotech projeleri\Divisima.DAL\Divisima.DAL\obj\Debug\net8.0\ref\Divisima.DAL.dll
